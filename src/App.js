@@ -2,8 +2,7 @@ import './App.css';
 import React from 'react'
 import SidePanel from './components/SidePanel';
 import FormContainer from './components/FormContainer';
-import ColorBar from './ColorBar';
-import Footer from './components/Footer';
+import ColorBar from './components/ColorBar';
 
 function App() {
   return (
